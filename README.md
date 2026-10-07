@@ -178,5 +178,5 @@ Stock price predictions produced by this model are **not financial advice** and 
 
 ## 👤 Author
 
-**Student Name** — Data Analytics / Machine Learning Project  
+**JOUANA ** — Data Analytics / Machine Learning Project  
 Dataset courtesy of Yahoo Finance.
